@@ -12,8 +12,7 @@ backports.functools-lru-cache==1.6.1
 backports.shutil-get-terminal-size==1.0.0
 backports.tempfile==1.0
 backports.weakref==1.0.post1
-backports.zoneinfo==0.2.1
-beautifulsoup4 @ 
+backports.zoneinfo==0.2.1 
 bkcharts==0.2
 boto==2.49.0
 Bottleneck==1.3.2
